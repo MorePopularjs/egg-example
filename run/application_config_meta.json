@@ -1,0 +1,224 @@
+{
+  "keys": "/Users/yangchongduo/Documents/egg-example/config/config.default.js",
+  "view": {
+    "defaultViewEngine": "/Users/yangchongduo/Documents/egg-example/config/config.default.js",
+    "mapping": {
+      ".tpl": "/Users/yangchongduo/Documents/egg-example/config/config.default.js"
+    },
+    "root": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-view/config/config.default.js"
+  },
+  "news": {
+    "pageSize": "/Users/yangchongduo/Documents/egg-example/config/config.default.js",
+    "serverUrl": "/Users/yangchongduo/Documents/egg-example/config/config.default.js"
+  },
+  "middleware": "/Users/yangchongduo/Documents/egg-example/config/config.default.js",
+  "robot": {
+    "ua": "/Users/yangchongduo/Documents/egg-example/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-onerror/config/config.default.js"
+  },
+  "session": {
+    "maxAge": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-session/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "multipart": {
+    "autoFields": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-multipart/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-security/config/config.default.js"
+  },
+  "development": {
+    "watchDirs": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-static/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "nunjucks": {
+    "autoescape": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-view-nunjucks/config/config.default.js",
+    "throwOnUndefined": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-view-nunjucks/config/config.default.js",
+    "trimBlocks": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-view-nunjucks/config/config.default.js",
+    "lstripBlocks": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-view-nunjucks/config/config.default.js",
+    "cache": "/Users/yangchongduo/Documents/egg-example/node_modules/egg-view-nunjucks/config/config.local.js"
+  },
+  "env": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js",
+  "name": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js",
+    "version": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js",
+    "description": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js",
+    "main": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js",
+    "scripts": {
+      "dev": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js",
+      "test": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "keywords": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js",
+    "author": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js",
+    "license": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js",
+    "dependencies": {
+      "egg": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js",
+      "egg-view-nunjucks": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js",
+      "koa": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js",
+      "moment": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "baseDir": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js",
+    "strict": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js",
+      "depth": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js",
+    "env": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js",
+    "level": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.local.js"
+    }
+  },
+  "httpclient": {
+    "keepAlive": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js",
+    "freeSocketKeepAliveTimeout": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js",
+    "timeout": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js",
+    "maxSockets": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js",
+    "maxFreeSockets": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js",
+    "enableDNSCache": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxAge": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/yangchongduo/Documents/egg-example/node_modules/egg/config/config.default.js"
+}

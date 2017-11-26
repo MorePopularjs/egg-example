@@ -1,0 +1,78 @@
+2017-07-09 18:43:49,895 INFO 27025 [egg:logger] init all loggers with options: {"dir":"/Users/yangchongduo/Documents/egg-example/logs/egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-07-09 18:43:49,977 INFO 27025 [egg-watcher:agent] watcher start success
+2017-07-09 18:51:42,906 WARN 27025 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/app/controller/home.js___jb_old___ rename
+2017-07-09 18:53:05,803 WARN 27025 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/app/controller/home.js___jb_old___ rename
+2017-07-09 18:53:13,921 WARN 27025 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/app/controller/home.js___jb_old___ rename
+2017-07-09 18:53:25,748 WARN 27025 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/app/controller/home.js___jb_old___ rename
+2017-07-09 18:53:30,001 WARN 27025 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/app/controller/home.js___jb_old___ rename
+2017-07-09 18:53:43,477 WARN 27025 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/app/controller/home.js___jb_old___ rename
+2017-07-10 08:28:29,963 INFO 33197 [egg:logger] init all loggers with options: {"dir":"/Users/yangchongduo/Documents/egg-example/logs/egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-07-10 08:28:30,036 INFO 33197 [egg-watcher:agent] watcher start success
+2017-07-10 08:33:36,454 INFO 33219 [egg:logger] init all loggers with options: {"dir":"/Users/yangchongduo/Documents/egg-example/logs/egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-07-10 08:33:36,522 INFO 33219 [egg-watcher:agent] watcher start success
+2017-07-10 09:02:33,022 WARN 33219 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/app/controller/home.js___jb_old___ rename
+2017-07-10 09:06:20,078 WARN 33219 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/config/plugin.js___jb_old___ rename
+2017-07-10 09:06:26,148 WARN 33219 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/config/plugin.js___jb_old___ rename
+2017-07-10 09:06:45,067 WARN 33219 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/config/config.default.js___jb_old___ rename
+2017-07-10 09:07:09,363 WARN 33219 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/config/plugin.js___jb_old___ rename
+2017-07-10 09:07:16,054 WARN 33219 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/config/plugin.js___jb_old___ rename
+2017-07-10 09:07:26,222 WARN 33219 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/config/config.default.js___jb_old___ rename
+2017-07-10 09:09:14,689 WARN 33219 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/app/controller/new.js___jb_old___ rename
+2017-07-10 09:09:19,735 WARN 33219 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/app/controller/new.js___jb_old___ rename
+2017-07-10 09:09:22,944 WARN 33219 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/app/controller/new.js rename
+2017-07-10 09:09:25,797 WARN 33219 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/app/controller/new.js___jb_old___ rename
+2017-07-10 09:09:36,491 WARN 33219 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/app/controller/new.js___jb_old___ rename
+2017-07-10 09:09:52,286 WARN 33219 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/app/controller/new.js___jb_old___ rename
+2017-07-10 09:10:04,086 WARN 33219 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/app/controller/new.js rename
+2017-07-10 09:10:11,943 WARN 33219 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/app/controller/new.js___jb_old___ rename
+2017-07-10 09:10:47,511 WARN 33219 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/app/router.js rename
+2017-07-10 09:10:54,462 WARN 33219 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/app/router.js___jb_old___ rename
+2017-07-10 09:11:09,117 WARN 33219 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/app/router.js___jb_old___ rename
+2017-07-10 09:12:10,369 WARN 33219 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/app/controller/new.js___jb_old___ rename
+2017-07-10 09:12:23,440 WARN 33219 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/app/controller/new.js___jb_old___ rename
+2017-07-10 09:12:43,576 WARN 33219 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/app/controller/new.js rename
+2017-07-10 11:10:59,089 INFO 37207 [egg:logger] init all loggers with options: {"dir":"/Users/yangchongduo/Documents/egg-example/logs/egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-07-10 11:10:59,141 INFO 37207 [egg-watcher:agent] watcher start success
+2017-07-10 11:11:24,748 WARN 37207 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/app/router.js___jb_old___ rename
+2017-07-10 11:13:27,532 WARN 37207 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/app/controller/new.js rename
+2017-07-10 11:15:37,466 WARN 37207 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/config/plugin.js___jb_old___ rename
+2017-07-10 11:18:18,031 INFO 37505 [egg:logger] init all loggers with options: {"dir":"/Users/yangchongduo/Documents/egg-example/logs/egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-07-10 11:18:18,102 INFO 37505 [egg-watcher:agent] watcher start success
+2017-07-10 11:19:19,393 INFO 37521 [egg:logger] init all loggers with options: {"dir":"/Users/yangchongduo/Documents/egg-example/logs/egg-example","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-07-10 11:19:19,469 INFO 37521 [egg-watcher:agent] watcher start success
+2017-07-10 11:20:41,304 WARN 37521 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/app/service/news.js___jb_old___ rename
+2017-07-10 11:21:17,432 WARN 37521 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/app/service/news.js___jb_old___ rename
+2017-07-10 11:21:37,740 WARN 37521 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/app/service/news.js___jb_old___ rename
+2017-07-10 11:22:21,837 WARN 37521 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/app/controller/news.js___jb_old___ rename
+2017-07-10 11:23:01,060 WARN 37521 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/app/controller/news.js___jb_old___ rename
+2017-07-10 11:23:12,190 WARN 37521 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/app/controller/news.js___jb_old___ rename
+2017-07-10 11:24:25,632 WARN 37521 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/config/config.default.js___jb_old___ rename
+2017-07-10 11:26:19,451 WARN 37521 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/config/config.default.js___jb_old___ rename
+2017-07-10 11:30:14,428 WARN 37521 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/app/controller/news.js rename
+2017-07-10 11:31:57,849 WARN 37521 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/app/service/news.js rename
+2017-07-10 11:34:44,019 WARN 37521 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/app/service/news.js___jb_old___ rename
+2017-07-10 11:35:06,969 WARN 37521 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/app/service/news.js rename
+2017-07-10 11:35:19,068 WARN 37521 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/app/service/news.js___jb_old___ rename
+2017-07-10 11:46:29,844 WARN 37521 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/app/extend/helper.js rename
+2017-07-10 11:46:39,866 WARN 37521 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/app/extend/helper.js rename
+2017-07-10 11:49:19,762 WARN 37521 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/app/middleware/robot.js___jb_old___ rename
+2017-07-10 11:49:25,836 WARN 37521 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/app/middleware/robot.js___jb_old___ rename
+2017-07-10 11:49:44,522 WARN 37521 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/config/config.default.js___jb_old___ rename
+2017-07-10 11:50:01,220 WARN 37521 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/config/config.default.js rename
+2017-07-10 11:51:16,412 WARN 37521 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/config/config.default.js___jb_tmp___ rename
+2017-07-10 11:51:29,118 WARN 37521 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/config/config.default.js___jb_old___ rename
+2017-07-10 11:51:44,987 WARN 37521 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/config/config.default.js___jb_old___ rename
+2017-07-10 11:52:02,761 WARN 37521 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/config/config.default.js___jb_old___ rename
+2017-07-10 11:52:41,385 WARN 37521 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/config/config.default.js___jb_old___ rename
+2017-07-10 11:53:12,274 WARN 37521 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/app/extend/helper.js___jb_old___ rename
+2017-07-10 12:55:24,557 WARN 37521 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/app/app.js___jb_tmp___ rename
+2017-07-10 12:55:36,355 WARN 37521 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/app/app.js___jb_old___ rename
+2017-07-10 12:56:22,515 WARN 37521 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/app/app.js___jb_old___ rename
+2017-07-10 12:56:26,957 WARN 37521 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/app/app.js___jb_tmp___ rename
+2017-07-10 12:57:10,552 WARN 37521 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/app/controller/news.js___jb_old___ rename
+2017-07-10 13:47:30,442 WARN 37521 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/app/controller/news.js___jb_old___ rename
+2017-07-10 13:48:05,208 WARN 37521 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/app/controller/news.js rename
+2017-07-10 13:48:08,696 WARN 37521 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/app/controller/news.js___jb_old___ rename
+2017-07-10 13:58:50,172 WARN 37521 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/app/app.js___jb_old___ rename
+2017-07-10 13:59:55,513 WARN 37521 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/app/controller/news.js___jb_old___ rename
+2017-07-10 14:00:44,620 WARN 37521 [agent:development] reload worker because /Users/yangchongduo/Documents/egg-example/app/controller/news.js rename

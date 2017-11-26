@@ -1,0 +1,54 @@
+2017-07-10 08:57:03,280 ERROR 33219 nodejs.ClusterClientNoResponseError: client no response in 265926ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/yangchongduo/Documents/egg-example/node_modules/cluster-client/lib/leader.js:72:23)
+    at ontimeout (timers.js:488:11)
+    at tryOnTimeout (timers.js:323:5)
+    at Timer.listOnTimeout (timers.js:283:5)
+name: 'ClusterClientNoResponseError'
+pid: 33219
+hostname: bogon
+
+2017-07-10 11:13:52,873 ERROR 37218 [-/::1/-/3ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (/Users/yangchongduo/Documents/egg-example/node_modules/egg-view/lib/context_view.js:93:5)
+    at ContextView.[contextView#render] (/Users/yangchongduo/Documents/egg-example/node_modules/egg-view/lib/context_view.js:74:39)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/yangchongduo/Documents/egg-example/node_modules/co/index.js:65:19)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 37218
+hostname: bogon
+
+2017-07-10 11:14:19,835 ERROR 37218 [-/::1/-/4ms GET /news] nodejs.AssertionError [ERR_ASSERTION]: Can't find ViewEngine "nunjucks"
+    at ContextView.[contextView#getViewEngine] (/Users/yangchongduo/Documents/egg-example/node_modules/egg-view/lib/context_view.js:93:5)
+    at ContextView.[contextView#render] (/Users/yangchongduo/Documents/egg-example/node_modules/egg-view/lib/context_view.js:74:39)
+    at options.next (<anonymous>)
+    at onFulfilled (/Users/yangchongduo/Documents/egg-example/node_modules/co/index.js:65:19)
+    at <anonymous>
+generatedMessage: false
+name: 'AssertionError [ERR_ASSERTION]'
+code: 'ERR_ASSERTION'
+actual: undefined
+expected: true
+operator: '=='
+pid: 37218
+hostname: bogon
+
+2017-07-10 13:47:38,194 ERROR 38246 [-/::1/-/19ms GET /news] nodejs.TypeError: app.logger is not a function
+    at NewsController.list (/Users/yangchongduo/Documents/egg-example/app/controller/news.js:21:8)
+    at list.next (<anonymous>)
+    at onFulfilled (/Users/yangchongduo/Documents/egg-example/node_modules/co/index.js:65:19)
+    at /Users/yangchongduo/Documents/egg-example/node_modules/co/index.js:54:5
+    at Promise (<anonymous>)
+    at Object.co (/Users/yangchongduo/Documents/egg-example/node_modules/co/index.js:50:10)
+    at Object.toPromise (/Users/yangchongduo/Documents/egg-example/node_modules/co/index.js:118:63)
+    at next (/Users/yangchongduo/Documents/egg-example/node_modules/co/index.js:99:29)
+    at onFulfilled (/Users/yangchongduo/Documents/egg-example/node_modules/co/index.js:69:7)
+    at /Users/yangchongduo/Documents/egg-example/node_modules/co/index.js:54:5
+
+pid: 38246
+hostname: bogon
+
